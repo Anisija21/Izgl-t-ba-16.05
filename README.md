@@ -17,3 +17,4 @@ Lomas:
 Kristīne izveidoja projekta ideju
 Katrīna izveidoja aptauju google forms
 Anisija izveidoja mājaslapu repl.it
+https://miro.com/app/board/uXjVOz5lG9A=/
